@@ -12,7 +12,8 @@
 </div>
 
 # Description
-Implements diffusion sampling in Deep Graph Infomax
+This project originated from a seminar at the statistics department at LMU Munich in the winter term 22/23.<br>
+Aim of this project is to augment Deep Graph Infomax (see Veličković et al., ICLR 2019) with a sampling strategy based on diffusion sampling.
 
 # Quickstart
 
